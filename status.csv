@@ -109,3 +109,5 @@ US-5.9,NOT-BUILT,,,
 US-5.10,PARTIAL,Sharan,2026-08-14,"Proposes from the state plan when Item 4 has nothing; synonym table and single-word over-matching flagged by the author as needing review; multi-state gets none, see US-5.8/US-5.9"
 US-X.19,DONE,Sharan,2026-08-14,"Dispatch bounded per kind, measured 15/31 failed unbounded to 0/31 failed gated; a separate residual ~20% provider-side failure rate is unrelated and still open"
 US-X.20,PARTIAL,Sharan,2026-08-14,AgentCallProviderError surfaces the provider's own sentence instead of a generic no-answer error; a residual ~20% of failures still report no stopReason at all
+US-5.11,NOT-BUILT,,,
+US-8.6,NOT-BUILT,,,
