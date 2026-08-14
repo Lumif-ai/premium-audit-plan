@@ -111,3 +111,6 @@ US-X.19,DONE,Sharan,2026-08-14,"Dispatch bounded per kind, measured 15/31 failed
 US-X.20,PARTIAL,Sharan,2026-08-14,AgentCallProviderError surfaces the provider's own sentence instead of a generic no-answer error; a residual ~20% of failures still report no stopReason at all
 US-5.11,NOT-BUILT,,,
 US-8.6,NOT-BUILT,,,
+US-5.12,NOT-BUILT,,,
+US-5.13,NOT-BUILT,,,
+US-X.21,NOT-BUILT,,,
